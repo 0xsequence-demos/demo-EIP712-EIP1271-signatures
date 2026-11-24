@@ -1,3 +1,10 @@
+<!-- archived-repository-notice -->
+> [!WARNING]
+> **This demo is archived and no longer maintained.**
+>
+> It was built against Sequence APIs and SDKs that may have changed or been
+> retired, so it may no longer run. It is kept here for reference only.
+
 # EIP712-EIP1271-signatures-demo
 A simplified user interface for signing a message with a Sequence Universal Wallet and verifying the typed data on-chain using a 1271 verification signature, covering cases where the smart contract wallet is not deployed using static ethers calls to simulate a verification, deployed on sepolia.
 
